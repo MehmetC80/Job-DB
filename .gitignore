@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Dot Env ###
-.env
+.env/
