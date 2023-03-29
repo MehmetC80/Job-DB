@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection = "jobPost")
+@Document(collection = "jobs")
 public class Job {
 
     private String profile;

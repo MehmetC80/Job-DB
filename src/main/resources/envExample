@@ -1,1 +1,3 @@
 MONGO_DB_URI=mongodb+srv://<USERNAME>:<USERPASSWORD>@<CLUSTERNAME>.swd3drw.mongodb.net/?retryWrites=true&w=majority
+
+spring.data.mongodb.database=job-db2
